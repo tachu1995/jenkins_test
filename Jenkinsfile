@@ -18,8 +18,8 @@ pipeline {
 
         stage('Code Analysis') {
             steps {
-                echo 'Stage 3 -- Code Analysis -- Tool: SonarQube Code Check-- running'
-                echo 'Stage 3 -- Code Analysis -- Tool: SonarQube Code Check-- pass'
+                echo 'Stage 3 -- Code Analysis -- Tool: SonarQube SolarGate Check-- running'
+                echo 'Stage 3 -- Code Analysis -- Tool: SonarQube SolarGate Check-- pass'
             }
         }
 
